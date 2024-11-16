@@ -6,7 +6,7 @@ This project is available in multiple languages.
 
 Work by: Anna Navarro, Andressa, Leticia Aiko, Michele Cristina Otta, Yejin Chung
 
-Programming a Ship Game Using Python
+1st semester assignment - Programming a ship game using Python
 
 # Description
 The player will face the computer. First, the game begins when each player selects where they want to place their ships (the computer's ships are placed randomly).
