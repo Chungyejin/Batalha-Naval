@@ -4,8 +4,6 @@ This project is available in multiple languages.
 - [한국어](README.ko.md)
 - [Portugûes](README.pt.md)
 
-Work by: Anna Navarro, Andressa, Leticia Aiko, Michele Cristina Otta, Yejin Chung
-
 1st semester assignment - Programming a ship game using Python
 
 # Description
