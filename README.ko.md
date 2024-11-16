@@ -1,5 +1,5 @@
-# Naval-Battle Programming
-This project is available in multiple languages.
+# 해군 전투 프로그래밍
+이 프로젝트는 여러 언어로 제공됩니다.
 
 - [English](README.md)
 - [Portugûes](README.pt.md)
